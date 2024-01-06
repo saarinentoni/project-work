@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"ContactsApp"},{"p":"<Unnamed>","l":"ContactsFilesSaver"},{"p":"<Unnamed>","l":"ContactsManager"},{"p":"<Unnamed>","l":"ContactsReader"}];updateSearchResults();
